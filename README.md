@@ -1,5 +1,8 @@
 ![image](https://github.com/laas29/CS-Code-Challenge/assets/6174109/919693d7-e0ac-4532-8f5f-6876a7166213)
 
+![image](https://github.com/laas29/CS-Code-Challenge/assets/6174109/961e1208-845b-4301-99dc-bef9f47b9ab1)
+
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 

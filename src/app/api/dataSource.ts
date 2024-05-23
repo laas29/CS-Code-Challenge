@@ -21,9 +21,9 @@ export type UserProfile = Omit<User, "friends"> & {
 const Users: User[] = [
     {
         id: "1",
-        name: "Luis",
-        lastName: "Arias",
-        address: "C14 #131",
+        name: "Luz",
+        lastName: "Harinas",
+        address: "Coli #131",
         phone: "3333333333",
         friends: ["2", "3", "4"],
     },

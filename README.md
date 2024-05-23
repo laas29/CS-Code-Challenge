@@ -1,3 +1,6 @@
+![image](https://github.com/laas29/CS-Code-Challenge/assets/6174109/919693d7-e0ac-4532-8f5f-6876a7166213)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
